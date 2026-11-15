@@ -1,3 +1,6 @@
+Nom: Lban Sondosse
+GRP: B
+
 Question 1 
 Pourquoi utilise-t-on un forward quand le login échoue, mais un sendRedirect quand il réussit ?
 
